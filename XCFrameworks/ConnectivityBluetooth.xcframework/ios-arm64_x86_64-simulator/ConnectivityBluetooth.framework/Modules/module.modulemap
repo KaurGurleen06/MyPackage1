@@ -1,0 +1,6 @@
+framework module ConnectivityBluetooth {
+    umbrella header "ConnectivityBluetooth.h"
+
+    export *
+    module * { export * }
+}

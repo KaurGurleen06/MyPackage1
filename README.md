@@ -1,2 +1,3 @@
-# MyPackage1
-SPM Demo
+# MyPackage
+
+A description of this package.
